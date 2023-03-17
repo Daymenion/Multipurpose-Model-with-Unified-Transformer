@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # add datesets folder to gitignore
-datasets/
+datasets/CUB_200_2011/
