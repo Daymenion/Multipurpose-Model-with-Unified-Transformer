@@ -117,5 +117,5 @@ for caption in caption_list:
 
 
 # # check load
-# data = torch.load(os.path.join(WE.dir_path, '007.Parakeet_Auklet/Parakeet_Auklet_0064_795954.t7'))
+# data = torch.load(os.path.join(WE.dir_path, '003.Sooty_Albatross/Sooty_Albatross_0021_796339.t7'))
 # print(data['embeds'])

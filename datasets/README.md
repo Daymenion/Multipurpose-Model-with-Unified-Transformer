@@ -194,4 +194,4 @@ Each caption file contains a dict object with keys:
 
 and 'txt', 1024-dimentional text feature by pretrained GoogLeNet (Details in https://github.com/reedscot/icml2016). We use only 'char' and 'img'.
 
-<img src="./image/caption_data_example.jpg" width="900px" />
+<img src="./CaptionData.jpg" width="900px" />
