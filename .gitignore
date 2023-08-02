@@ -128,5 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# add datesets folder to gitignore
-datasets/CUB_200_2011/
+# add IDE settings
+.vscode/
+
+# add logs folder
+logs/caption/
+logs/hmdb/
+logs/penn/
+logs/vqa/
