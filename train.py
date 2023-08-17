@@ -18,7 +18,6 @@ import random
 from tqdm import tqdm
 from libs.utils.train_util import *
 
-#bu dosya çalışırken oluşan uyarıların konsolda çıkmaması için aşağıdaki satırı çıkmasın
 import warnings
 warnings.filterwarnings("ignore")
 warnings.simplefilter("ignore", UserWarning)
